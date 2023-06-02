@@ -696,6 +696,11 @@ export const actionChangeFontFamily = register({
         icon: FreedrawIcon,
       },
       {
+        value: FONT_FAMILY.Muyao,
+        text: t("labels.handDrawn"),
+        icon: FreedrawIcon,
+      },
+      {
         value: FONT_FAMILY.Helvetica,
         text: t("labels.normal"),
         icon: FontFamilyNormalIcon,
